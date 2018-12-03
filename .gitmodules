@@ -1,3 +1,51 @@
 [submodule "lecture-16"]
 	path = lecture-16
 	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-16.git
+[submodule "lecture-01"]
+	path = lecture-01
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-01.git
+[submodule "lecture-02"]
+	path = lecture-02
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-02.git
+[submodule "lecture-03"]
+	path = lecture-03
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-03.git
+[submodule "lecture-04"]
+	path = lecture-04
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-04.git
+[submodule "lecture-05"]
+	path = lecture-05
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-05.git
+[submodule "lecture-06"]
+	path = lecture-06
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-06.git
+[submodule "lecture-07"]
+	path = lecture-07
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-07.git
+[submodule "lecture-08"]
+	path = lecture-08
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-08.git
+[submodule "lecture-09"]
+	path = lecture-09
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-09.git
+[submodule "lecture-10"]
+	path = lecture-10
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-10.git
+[submodule "lecture-11"]
+	path = lecture-11
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-11.git
+[submodule "lecture-12"]
+	path = lecture-12
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-12.git
+[submodule "lecture-13"]
+	path = lecture-13
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-13.git
+[submodule "lecture-14"]
+	path = lecture-14
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-14.git
+[submodule "lecture-15"]
+	path = lecture-15
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-15.git
+[submodule "lecture-17"]
+	path = lecture-17
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-17.git
