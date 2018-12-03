@@ -49,3 +49,6 @@
 [submodule "lecture-17"]
 	path = lecture-17
 	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-lecture-17.git
+[submodule "homework-07"]
+	path = homework-07
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-07.git
