@@ -55,3 +55,18 @@
 [submodule "homework-04"]
 	path = homework-04
 	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-04.git
+[submodule "homework-01"]
+	path = homework-01
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-01.git
+[submodule "homework-02"]
+	path = homework-02
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-02.git
+[submodule "homework-03"]
+	path = homework-03
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-03.git
+[submodule "homework-05"]
+	path = homework-05
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-05.git
+[submodule "homework-06"]
+	path = homework-06
+	url = https://github.com/smg-bg/pragmatic-csharp-dotnet-course-oct2018-homework-06.git
